@@ -5,10 +5,12 @@ Technologies used in this project :
 1. Python
 2. Tkinter
 
-This repository is participating in Hacktoberfest2021.
+This repository is participating in Hacktoberfest2021. 
+Submit a Valid Pull Request, Code will be reviewed and merged.
 
 Happy Hacking!!
 
 # Requirment
-Python 2.x or 3.x 
-and Tkinter library for GUI
+1. Python 2.x or 3.x 
+2. Tkinter library for GUI (Graphical User Interface)
+
