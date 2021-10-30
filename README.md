@@ -4,6 +4,11 @@ This is a basic application to book a taxi by a user. When the project starts us
 Technologies used in this project :
 1. Python
 2. Tkinter
+
+This repository is participating in Hacktoberfest2021.
+
+Happy Hacking!!
+
 # Requirment
 Python 2.x or 3.x 
 and Tkinter library for GUI
